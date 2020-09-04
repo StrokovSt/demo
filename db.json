@@ -5,9 +5,11 @@
     { "id": 3, "title": "Post 3" }
   ],
   "events": [
-    {"id": 0, "firstTeamName": "СКА, КХЛ", "secondTeamName": "«Динамо» Москва, КХЛ", "venuePlase": "Фельтинс арена"},
-    {"id": 1, "firstTeamName": "«Сиракьюз», АХЛ", "secondTeamName": "«Динамо» Москва, КХЛ", "venuePlase": "Ланкесс арена"},
-    {"id": 2, "firstTeamName": "«Оклахома», АХЛ", "secondTeamName": "СКА, КХЛ", "venuePlase": "O2 арена"}
+    {"id": 1, "firstTeamName": "СКА, КХЛ", "secondTeamName": "«Динамо» Москва, КХЛ", "venuePlase": "Фельтинс арена"},
+    {"id": 2, "firstTeamName": "«Сиракьюз», АХЛ", "secondTeamName": "«Динамо» Москва, КХЛ", "venuePlase": "Ланкесс арена"},
+    {"id": 3, "firstTeamName": "«Оклахома», АХЛ", "secondTeamName": "СКА, КХЛ", "venuePlase": "Роял арена"},
+    {"id": 4, "firstTeamName": "«Локомотив», КХЛ", "secondTeamName": "СКА, КХЛ", "venuePlase": "O2 арена"},
+    {"id": 5, "firstTeamName": "«АК Барс", "secondTeamName": "«Брюнэс», Elitserien", "venuePlase": "Словнафт арена", "date": "Wed Sep 23 2020 15:18:09 GMT+0700 (Новосибирск, стандартное время)"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
