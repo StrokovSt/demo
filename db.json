@@ -6,9 +6,9 @@
   ],
   "events": [
     {"id": 1, "firstTeamName": "СКА, КХЛ", "secondTeamName": "«Динамо» Москва, КХЛ", "venuePlase": "Фельтинс арена", "date": "Wed Sep 23 2020 15:18:09 GMT+0700 (Новосибирск, стандартное время)"},
-    {"id": 2, "firstTeamName": "«Сиракьюз», АХЛ", "secondTeamName": "«Динамо» Москва, КХЛ", "venuePlase": "Ланкесс арена", "date": "Wed Sep 23 2020 15:18:09 GMT+0700 (Новосибирск, стандартное время)"},
-    {"id": 3, "firstTeamName": "«Оклахома», АХЛ", "secondTeamName": "СКА, КХЛ", "venuePlase": "Роял арена", "date": "Wed Sep 23 2020 15:18:09 GMT+0700 (Новосибирск, стандартное время)"},
-    {"id": 4, "firstTeamName": "«Локомотив», КХЛ", "secondTeamName": "СКА, КХЛ", "venuePlase": "O2 арена", "date": "Wed Sep 23 2020 15:18:09 GMT+0700 (Новосибирск, стандартное время)"},
+    {"id": 2, "firstTeamName": "«Сиракьюз», АХЛ", "secondTeamName": "«Динамо» Москва, КХЛ", "venuePlase": "Ланкесс арена", "date": "Sat Feb 22 2020 22:12:19 GMT+0700 (Новосибирск, стандартное время)"},
+    {"id": 3, "firstTeamName": "«Оклахома», АХЛ", "secondTeamName": "СКА, КХЛ", "venuePlase": "Роял арена", "date": "Fri Jun 05 2020 20:17:19 GMT+0700 (Новосибирск, стандартное время)"},
+    {"id": 4, "firstTeamName": "«Локомотив», КХЛ", "secondTeamName": "СКА, КХЛ", "venuePlase": "O2 арена", "date": "Fri Nov 20 2020 12:13:19 GMT+0700 (Новосибирск, стандартное время)"},
     {"id": 5, "firstTeamName": "«АК Барс", "secondTeamName": "«Брюнэс», Elitserien", "venuePlase": "Словнафт арена", "date": "Wed Sep 23 2020 15:18:09 GMT+0700 (Новосибирск, стандартное время)"}
   ],
   "comments": [
