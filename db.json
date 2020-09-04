@@ -1,7 +1,7 @@
 {
   "events": [
-    {"id": 0, "firstTeamName": "СКА, КХЛ", "secondTeamName": "«Динамо» Москва, КХЛ", "venuePlase": "Фельтинс арена", "date": Mon Nov 09 2020 18:22:26 GMT+0700 (Новосибирск, стандартное время)},
-    {"id": 1, "firstTeamName": "«Сиракьюз», АХЛ", "secondTeamName": "«Динамо» Москва, КХЛ", "venuePlase": "Ланкесс арена", "date": Fri Jul 10 2020 16:12:26 GMT+0700 (Новосибирск, стандартное время)},
-    {"id": 2, "firstTeamName": "«Оклахома», АХЛ", "secondTeamName": "СКА, КХЛ", "venuePlase": "O2 арена", "date": Fri Mar 27 2020 20:15:34 GMT+0700 (Новосибирск, стандартное время)}
+    {"id": 0, "firstTeamName": "СКА, КХЛ", "secondTeamName": "«Динамо» Москва, КХЛ", "venuePlase": "Фельтинс арена", "date": "Mon Nov 09 2020 18:22:26 GMT+0700 (Новосибирск, стандартное время)"},
+    {"id": 1, "firstTeamName": "«Сиракьюз», АХЛ", "secondTeamName": "«Динамо» Москва, КХЛ", "venuePlase": "Ланкесс арена", "date": "Fri Jul 10 2020 16:12:26 GMT+0700 (Новосибирск, стандартное время)"},
+    {"id": 2, "firstTeamName": "«Оклахома», АХЛ", "secondTeamName": "СКА, КХЛ", "venuePlase": "O2 арена", "date": "Fri Mar 27 2020 20:15:34 GMT+0700 (Новосибирск, стандартное время)"}
   ]
 }
