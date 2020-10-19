@@ -20,11 +20,6 @@
             }
           }
         },
-        "Seller": {
-          "Seller Name": "Tania's Favorites",
-          "Seller Type": "Merchant"
-        },
-        "Category": "Film",
         "ItemInfo": {
           "Title": {
             "DisplayValue": "Genghis: The Legend of the Ten",
@@ -63,11 +58,6 @@
             }
           }
         },
-        "Seller": {
-          "Seller Name": "Tania's Favorites",
-          "Seller Type": "Merchant"
-        },
-        "Category": "Film",
         "ItemInfo": {
           "Features": {
             "DisplayValues": [
@@ -117,11 +107,6 @@
             }
           }
         },
-        "Seller": {
-          "Seller Name": "Tania's Favorites",
-          "Seller Type": "Merchant"
-        },
-        "Category": "Film",
         "ItemInfo": {
           "Title": {
             "DisplayValue": "Star Trek II: The Wrath of Khan",
