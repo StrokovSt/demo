@@ -1,6 +1,7 @@
 {
   "Items": [
     {
+      "id": 1,
       "ASIN": "B0199980K4",
       "ParentASIN": "B07QGKM68X",
       "DetailPageURL": "https://www.amazon.com/dp/B0199980K4?tag=xyz-20&linkCode=ogi&language=en_US&th=1&psc=1",
@@ -22,6 +23,7 @@
       },
 
       {
+        "id": 2,
         "ASIN": "B00BKQTA4A",
         "ParentASIN": "B07L5N7P32",
         "DetailPageURL": "https://www.amazon.com/dp/B00BKQTA4A?tag=xyz-20&linkCode=ogi&language=en_US&th=1&psc=1",
@@ -43,6 +45,7 @@
       },
 
       {
+        "id": 3,
         "ASIN": "B00DKQTA4A",
         "ParentASIN": "B22L5N7P32",
         "DetailPageURL": "https://www.amazon.com/Creuset-Signature-Enameled-Cast-Iron-2-Quart/dp/B0076NOLIG?ref_=Oct_DLandingS_D_19331d09_61&smid=ATVPDKIKX0DER",
@@ -63,6 +66,7 @@
       },
 
       {
+        "id": 4,
         "ASIN": "B00DKQTA4A",
         "ParentASIN": "B22L5N7P32",
         "DetailPageURL": "https://www.amazon.com/dp/B07M9WDYRT/ref=sbl_tw_a",
