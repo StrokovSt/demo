@@ -19,7 +19,7 @@
       "Price": 11.99,
       "Sellers": 125,
       "Ratings": 866,
-      "Category:": "Film"  
+      "Category": "Film"  
       },
 
       {
@@ -41,7 +41,7 @@
         "Price": 199,
         "Sellers": 15,
         "Ratings": 1866,
-        "Category:": "Clock"    
+        "Category": "Clock"    
       },
 
       {
@@ -62,7 +62,7 @@
         "Price": 129,
         "Sellers": 61,
         "Ratings": 16,
-        "Category:": "Dishes"    
+        "Category": "Dishes"    
       },
 
       {
@@ -83,7 +83,7 @@
         "Price": 666,
         "Sellers": 12,
         "Ratings": 126,
-        "Category:": "Dishes"    
+        "Category": "Dishes"    
       }
   ]
 }
