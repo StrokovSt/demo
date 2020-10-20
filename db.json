@@ -86,44 +86,6 @@
         "ParentASIN": "B07QGKM68X"
       },
       {
-        "ASIN": "B0199980K4",
-        "DetailPageURL": "https://www.amazon.com/dp/B0199980K4?tag=xyz-20&linkCode=ogi&language=en_US&th=1&psc=1",
-        "Images": {
-          "Primary": {
-            "Small": {
-              "Height": 75,
-              "URL": "https://m.media-amazon.com/images/I/61s4tTAizUL._SL75_.jpg",
-              "Width": 56
-            }
-          }
-        },
-        "ItemInfo": {
-          "Title": {
-            "DisplayValue": "Genghis: The Legend of the Ten",
-            "Label": "Title",
-            "Locale": "en_US"
-          }
-        },
-        "Offers": {
-          "Summaries": [
-            {
-              "Condition": {
-                "DisplayValue": "nuevo",
-                "Label": "Condición",
-                "Locale": "es_US",
-                "Value": "New"
-              },
-              "HighestPrice": {
-                "Amount": 11.99,
-                "Currency": "USD",
-                "DisplayAmount": "$11.99"
-              }
-            }
-          ]
-        },
-        "ParentASIN": "B07QGKM68X"
-      },
-      {
         "ASIN": "B00BKQTA4A",
         "DetailPageURL": "https://www.amazon.com/dp/B00BKQTA4A?tag=xyz-20&linkCode=ogi&language=en_US&th=1&psc=1",
         "Images": {
