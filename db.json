@@ -78,6 +78,46 @@
       "LQS": 54,
       "DetailPageURL": "https://www.amazon.com/dp/B07M9WDYRT/ref=sbl_tw_a",
       "Image": "https://images-na.ssl-images-amazon.com/images/I/71-xvj9y3LL._AC_SL1500_.jpg"
+    },
+
+    {
+      "id": 5,
+      "Title": "Genghis: The Legend of the Ten",
+      "Description": "Loren apsum like you!",
+      "Brand": "",
+      "Category": "Film",
+      "BSR": 14,
+      "Price": 11.99,
+      "Net": "",
+      "Weight": 1,
+      "Seller": "",
+      "Reviews": 32155,
+      "Rating": 4.8,
+      "Sales": 9554,
+      "Revenue": 3456999,
+      "LQS": 14,
+      "DetailPageURL": "https://www.amazon.com/dp/B0199980K4?tag=xyz-20&linkCode=ogi&language=en_US&th=1&psc=1",
+      "Image": "https://m.media-amazon.com/images/I/61s4tTAizUL._SL75_.jpg"
+    },
+
+    {
+      "id": 6,
+      "Title": "Daniel Wellington Women's 0608DW Sheffield Stainless Steel Watch",
+      "Description": "Loren apsum like you!",
+      "Brand": "",
+      "Category": "Film",
+      "BSR": 14,
+      "Price": 11.99,
+      "Net": "",
+      "Weight": 1,
+      "Seller": "AMZ",
+      "Reviews": 32155,
+      "Rating": 4.8,
+      "Sales": 9554,
+      "Revenue": 3456999,
+      "LQS": 29,
+      "DetailPageURL": "https://www.amazon.com/dp/B00BKQTA4A?tag=xyz-20&linkCode=ogi&language=en_US&th=1&psc=1",
+      "Image": "https://m.media-amazon.com/images/I/61s4tTAizUL._SL75_.jpg"
     }
 
   ]
