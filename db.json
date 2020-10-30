@@ -14,7 +14,7 @@
       "Reviews": 32155,
       "Rating": 4.8,
       "Sales": 9554,
-      "Revenue": 34999,
+      "Revenue": 3456999,
       "LQS": 14,
       "DetailPageURL": "https://www.amazon.com/dp/B0199980K4?tag=xyz-20&linkCode=ogi&language=en_US&th=1&psc=1",
       "Image": "https://m.media-amazon.com/images/I/61s4tTAizUL._SL75_.jpg"
@@ -27,8 +27,8 @@
       "Brand": "",
       "Category": "Film",
       "BSR": 14,
-      "Price": 21.99,
-      "Net": "19.99",
+      "Price": 11.99,
+      "Net": "",
       "Weight": 1,
       "Seller": "AMZ",
       "Reviews": 32155,
@@ -54,7 +54,7 @@
       "Reviews": 2155,
       "Rating": 2.8,
       "Sales": 954,
-      "Revenue": 5699,
+      "Revenue": 56999,
       "LQS": 4,
       "DetailPageURL": "https://www.amazon.com/Creuset-Signature-Enameled-Cast-Iron-2-Quart/dp/B0076NOLIG?ref_=Oct_DLandingS_D_19331d09_61&smid=ATVPDKIKX0DER",
       "Image": "https://m.media-amazon.com/images/I/41OiLOcQVJL._SL75_.jpg"
@@ -62,13 +62,13 @@
 
     {
       "id": 4,
-      "Title": "Signature Design by Ashley - Aldwin Farmhouse Storage Coffee Table, Brown Pine Wood",
-      "Description": "Signature Design by Ashley. Loren apsum like you!",
+      "Title": "Greenland Home Moose Lodge Quilted Bedding Set, King, Natural",
+      "Description": "Each set includes quilt, plus two standard-sized 20x26-inch pillow shams",
       "Brand": "",
-      "Category": "Dishes",
+      "Category": "Badroom",
       "BSR": 14,
-      "Price": 651.99,
-      "Net": "666",
+      "Price": 65.99,
+      "Net": "",
       "Weight": 1,
       "Seller": "FBM",
       "Reviews": 66655,
@@ -76,18 +76,18 @@
       "Sales": 19554,
       "Revenue": 2226999,
       "LQS": 54,
-      "DetailPageURL": "https://www.amazon.com/dp/B07M9WDYRT/ref=sbl_tw_a",
-      "Image": "https://images-na.ssl-images-amazon.com/images/I/71-xvj9y3LL._AC_SL1500_.jpg"
+      "DetailPageURL": "https://www.amazon.com/Greenland-Home-Moose-Quilted-Bedding/dp/B006VPLU0W/ref=sr_1_3?dchild=1&keywords=Home+bedding&pd_rd_r=600e0fa2-72cd-4cab-8356-d481fe669891&pd_rd_w=l8fyt&pd_rd_wg=11SOC&pf_rd_p=5d1c2959-31bb-4da9-9c57-8571d1d9b69c&pf_rd_r=9SDVE8VYBHSD5AJ51RWT&qid=1604037128&s=kitchen-intl-ship&sr=1-3",
+      "Image": "https://images-na.ssl-images-amazon.com/images/I/816NOzhqYOL._AC_SL1500_.jpg"
     },
 
     {
       "id": 5,
-      "Title": "Genghis: The Legend of the Ten",
-      "Description": "Loren apsum like you!",
-      "Brand": "",
-      "Category": "Film",
+      "Title": "HP VH240a 23.8-inch Full HD 1080p",
+      "Description": "Resolution & Panel — 23.8-inch full HD monitor (1920 x 1080p @ 60 Hz) with 16:9 aspect ratio and an anti-glare matte IPS LED-backlit panel (2 million pixels, 16.7 million colors)",
+      "Brand": "HP",
+      "Category": "Monitors",
       "BSR": 14,
-      "Price": 26.99,
+      "Price": 141.99,
       "Net": "",
       "Weight": 1,
       "Seller": "",
@@ -96,28 +96,28 @@
       "Sales": 9554,
       "Revenue": 3456999,
       "LQS": 14,
-      "DetailPageURL": "https://www.amazon.com/dp/B0199980K4?tag=xyz-20&linkCode=ogi&language=en_US&th=1&psc=1",
-      "Image": "https://m.media-amazon.com/images/I/61s4tTAizUL._SL75_.jpg"
+      "DetailPageURL": "https://www.amazon.com/HP-23-8-inch-Adjustment-Speakers-VH240a/dp/B072M34RQC/ref=sr_1_1?dchild=1&qid=1604037009&s=computers-intl-ship&sr=1-1",
+      "Image": "https://images-na.ssl-images-amazon.com/images/I/71trhuzbhML._AC_SL1500_.jpg"
     },
 
     {
       "id": 6,
-      "Title": "Daniel Wellington Women's 0608DW Sheffield Stainless Steel Watch",
-      "Description": "Loren apsum like you!",
-      "Brand": "",
-      "Category": "Film",
+      "Title": "American Tourister Disney Hardside Luggage",
+      "Description": "The American Tourister Disney features a sleek design with single spinner wheels, a mono tube pull handle, and a top grab handle for easy lifting.",
+      "Brand": "Disney",
+      "Category": "Luggage",
       "BSR": 14,
-      "Price": 111.99,
-      "Net": "",
-      "Weight": 1,
+      "Price": 189.99,
+      "Net": 155.65,
+      "Weight": 12,
       "Seller": "AMZ",
       "Reviews": 32155,
-      "Rating": 4.8,
-      "Sales": 9554,
-      "Revenue": 34999,
+      "Rating": 3.8,
+      "Sales": 19554,
+      "Revenue": 346999,
       "LQS": 29,
-      "DetailPageURL": "https://www.amazon.com/dp/B00BKQTA4A?tag=xyz-20&linkCode=ogi&language=en_US&th=1&psc=1",
-      "Image": "https://m.media-amazon.com/images/I/61s4tTAizUL._SL75_.jpg"
+      "DetailPageURL": "https://www.amazon.com/American-Tourister-Mickey-Mouse-Pants/dp/B07RH9ZJH3/ref=sr_1_1?dchild=1&qid=1604035940&s=apparel&sr=1-1",
+      "Image": "https://images-na.ssl-images-amazon.com/images/I/71d-WL6-9tL._AC_SL1500_.jpg"
     }
 
   ]
